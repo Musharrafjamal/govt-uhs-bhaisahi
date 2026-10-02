@@ -9,3 +9,21 @@
 @media(max-width:380px){h1{font-size:49px}.hero-actions{gap:14px}.brand small{max-width:175px;font-size:6px}.utility-inner{font-size:7px}.gallery-filters button{padding:7px 8px;font-size:8px}.profile-grid dl>div{grid-template-columns:1fr;gap:3px}.hero-image{height:280px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
 @media print{.utility,.site-header,.hero-actions,.gallery-filters,.button,.footer-top,.lightbox{display:none}.wrap{width:100%}.section{padding-block:25px}body{font-size:11px;background:white}.hero{padding-block:20px}h1{font-size:40px}h2{font-size:30px}.gallery-grid .photo-button img{height:150px!important}.principal-photo img{height:220px}.section,article,figure{break-inside:avoid}footer{background:white;color:var(--ink)}}
+
+/* Principal's vision: an editorial letter beneath the portrait feature. */
+.principal-message{margin-top:62px;padding-top:45px;border-top:1px solid #cbd0c7;display:grid;grid-template-columns:330px minmax(0,1fr);gap:100px;align-items:start}
+.message-heading .eyebrow{margin-bottom:16px}
+.message-heading h3{font-family:var(--serif);font-size:42px;font-weight:400;line-height:1.12;letter-spacing:-.02em;max-width:290px}
+.message-heading h3 em{color:var(--gold);font-weight:400}
+.message-heading>p:last-child{font-size:12px;margin-top:16px;color:var(--gold)}
+.message-body{max-width:720px}
+.message-body>p{font-size:15px;line-height:1.85;margin-bottom:20px}
+.message-body .message-salutation{color:var(--ink);font-weight:600;margin-bottom:23px}
+.message-signature{margin-top:30px;padding-top:23px;border-top:1px solid #d5d8d1;display:flex;flex-direction:column;align-items:flex-start;gap:4px}
+.message-signature>span{font-size:12px;color:var(--muted)}
+.message-signature strong{font-family:var(--serif);font-size:29px;font-weight:400;color:var(--ink);margin-top:6px}
+.message-signature small{font-size:10px;color:var(--muted);margin-top:3px}
+@media(max-width:1150px){.principal-message{grid-template-columns:290px minmax(0,1fr);gap:65px}}
+@media(max-width:900px){.principal-message{grid-template-columns:240px minmax(0,1fr);gap:40px}.message-heading h3{font-size:36px}.message-body>p{font-size:14px}}
+@media(max-width:620px){.principal-message{grid-template-columns:1fr;gap:25px;margin-top:39px;padding-top:30px}.message-heading h3{font-size:38px;max-width:none}.message-heading>p:last-child{margin-top:11px}.message-body>p{font-size:14px;line-height:1.8;margin-bottom:18px}.message-signature{margin-top:25px;padding-top:20px}}
+@media print{.principal-message{display:block;margin-top:25px;padding-top:20px;break-inside:auto}.message-heading{margin-bottom:20px}.message-body>p{font-size:11px}.message-signature{break-inside:avoid}}

@@ -6,12 +6,12 @@ A responsive static website for Government Upgraded Higher Secondary School, Bha
 
 - School profile and administrative details for academic year 2026–27
 - Class 9–12 enrolment (123 + 157 + 114 + 97 = 491)
-- Principal Md. Nasir Jamal and a 15-person teaching directory
+- Principal Md. Nasir Jamal, an original school vision message, and a 15-person teaching directory
 - Supplied 2026 Matric and Intermediate achievement posters
 - Six school photographs with filters and an accessible keyboard-operated viewer
 - School email and map link
 
-Mobile numbers and teacher identifiers are intentionally excluded at the owner's request. The original administrative screenshots are not published. Teacher categories and names follow the supplied directory. Result scores are described as scores featured in the supplied posters, not independently verified results. No invented admission dates, office hours, notices, staff quotations, or school facilities are included.
+Mobile numbers and teacher identifiers are intentionally excluded at the owner's request. The original administrative screenshots are not published. Teacher categories and names follow the supplied directory. Result scores are described as scores featured in the supplied posters, not independently verified results. The principal’s vision message is original website copy written at the owner’s request, tailored to this school rather than copied from the supplied reference. No third-party quotations or unverified facility claims are used. No invented admission dates, office hours, or notices are included.
 
 ## Preview
 
